@@ -39,8 +39,12 @@ LINES = [
     ("Sales", "operações de vendas, funis e CRM"),
     "",
     "- Building",
-    ("Agents", "agentes de WhatsApp p/ advocacia bancária"),
-    ("SaaS", "conciliação contábil com IA"),
+    # números do SaaS: medidos em 01/10/2026, arredondados pra baixo (o "+" mantém verdadeiro)
+    ("SaaS.Accounting", "IA lê o documento, humano decide"),
+    ("SaaS.Deploys", "em produção, +340 deploys desde mai/2026"),
+    ("SaaS.Quality", "+2.200 commits, +500 PRs, +6.000 testes"),
+    ("Legal.AI", "agentes de WhatsApp p/ advocacia bancária"),
+    ("Ads.Dashboard", "Meta Ads + CRM WhatsApp + vendas"),
     ("Commerce", "e-commerce próprio"),
     "",
     "- Contact",
@@ -61,7 +65,7 @@ INFO_FS, INFO_LH, INFO_COLS = 16, 20, 58
 PAD = 15
 INFO_X = PAD + round(ASCII_COLS * ASCII_FS * CHAR_W) + PAD
 WIDTH = INFO_X + round(INFO_COLS * INFO_FS * CHAR_W) + PAD
-HEIGHT = 570
+HEIGHT = max(530, 30 + len(LINES) * INFO_LH + 20)  # cresce sozinho com o número de linhas
 
 THEMES = {
     "dark_mode.svg": dict(bg="#161b22", fg="#c9d1d9", key="#ffa657", value="#a5d6ff", cc="#616e7f"),
@@ -217,8 +221,6 @@ def main():
         make_ascii()
     art = (ROOT / "ascii.txt").read_text(encoding="utf-8").split("\n")
     info = info_lines(fetch_stats())
-    if 30 + (len(info) - 1) * INFO_LH > HEIGHT - PAD:
-        sys.exit(f"{len(info)} linhas não cabem em {HEIGHT}px; corte alguma em LINES")
     for name, theme in THEMES.items():
         (ROOT / name).write_text(render(theme, art, info), encoding="utf-8")
     print(f"ok: {WIDTH}x{HEIGHT}px, {len(info)} linhas")
