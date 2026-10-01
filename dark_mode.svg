@@ -56,23 +56,23 @@ text, tspan {white-space: pre;}
 <text x="415" y="50" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">macOS 15, Linux (VPS)</tspan></text>
 <text x="415" y="70" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">30 years, 10 months, 10 days</tspan></text>
 <text x="415" y="90" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">Brasil</tspan></text>
-<text x="415" y="110" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">AI Architect: agentes, CRMs e automação</tspan></text>
+<text x="415" y="110" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Construtor de IA: agentes, CRMs e automação</tspan></text>
 <text x="415" y="130" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Claude Code, Codex CLI, Cursor</tspan></text>
 <text x="415" y="150" xml:space="preserve"><tspan class="cc">. </tspan></text>
-<text x="415" y="170" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">TypeScript, Python, SQL</tspan></text>
-<text x="415" y="190" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">HTML, CSS, JSON, YAML, Liquid</tspan></text>
-<text x="415" y="210" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Português, English</tspan></text>
-<text x="415" y="230" xml:space="preserve"><tspan class="cc">. </tspan></text>
-<text x="415" y="250" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Backend</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Supabase, Postgres, n8n</tspan></text>
-<text x="415" y="270" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">AI</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Claude API, agentes de WhatsApp</tspan></text>
+<text x="415" y="170" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Background</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">12 anos em sistemas críticos</tspan></text>
+<text x="415" y="190" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Background</tspan>.<tspan class="key">Ex</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Oi Telecom, Copel Fibra, Sicoob</tspan></text>
+<text x="415" y="210" xml:space="preserve"><tspan class="cc">. </tspan></text>
+<text x="415" y="230" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Build</tspan>.<tspan class="key">Method</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">eu especifico e reviso, a IA escreve</tspan></text>
+<text x="415" y="250" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Build</tspan>.<tspan class="key">Models</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Claude, Codex, GPT</tspan></text>
+<text x="415" y="270" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Build</tspan>.<tspan class="key">Stack</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Supabase, Postgres, n8n, WhatsApp API</tspan></text>
 <text x="415" y="310" xml:space="preserve">- Building -———————————————————————————————————————————-—-</text>
-<text x="415" y="330" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">SaaS</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">conciliação contábil com IA</tspan></text>
-<text x="415" y="350" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Commerce</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">e-commerce próprio</tspan></text>
-<text x="415" y="370" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Agents</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">vendas e atendimento no WhatsApp</tspan></text>
+<text x="415" y="330" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Agents</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">agentes de WhatsApp p/ advocacia bancária</tspan></text>
+<text x="415" y="350" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">SaaS</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">conciliação contábil com IA</tspan></text>
+<text x="415" y="370" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Commerce</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">e-commerce próprio</tspan></text>
 <text x="415" y="410" xml:space="preserve">- Contact -————————————————————————————————————————————-—-</text>
 <text x="415" y="430" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">toolsmktup-frag</tspan></text>
 <text x="415" y="450" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">carli.lucas</tspan></text>
 <text x="415" y="490" xml:space="preserve">- GitHub Stats -———————————————————————————————————————-—-</text>
-<text x="415" y="510" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>.<tspan class="key">Public</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">3</tspan> | <tspan class="key">Contributions</tspan>.<tspan class="key">Year</tspan>:<tspan class="cc"> . </tspan><tspan class="value">2,323</tspan></text>
+<text x="415" y="510" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">12 {Public: 3}</tspan> | <tspan class="key">Contributions</tspan>.<tspan class="key">Year</tspan>:<tspan class="cc"> . </tspan><tspan class="value">2,323</tspan></text>
 </g>
 </svg>
