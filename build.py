@@ -27,15 +27,16 @@ LINES = [
     ("OS", "macOS 15, Linux (VPS)"),
     ("Uptime", "{uptime}"),
     ("Host", "Brasil"),
-    ("Kernel", "Construtor de IA: agentes, CRMs e automação"),
-    ("IDE", "Claude Code, Codex CLI, Cursor"),
-    ".",
-    ("Background", "12 anos em sistemas críticos"),
+    ("Kernel", "Automações, integrações e agentes de IA"),
+    ("Background", "desde 2012: infra, redes, telecom"),
     ("Background.Ex", "Oi Telecom, Copel Fibra, Sicoob"),
     ".",
-    ("Build.Method", "eu especifico e reviso, a IA escreve"),
-    ("Build.Models", "Claude, Codex, GPT"),
-    ("Build.Stack", "Supabase, Postgres, n8n, WhatsApp API"),
+    ("Automation", "n8n, APIs REST, webhooks, JSON"),
+    ("Integrations", "CRM, ERP, WhatsApp API, Supabase"),
+    ("AI.Assisted", "Claude, Codex, Cursor, Antigravity"),
+    ("AI.Builders", "Lovable, Dyad"),
+    ("Marketing", "automação de marketing, growth hacking"),
+    ("Sales", "operações de vendas, funis e CRM"),
     "",
     "- Building",
     ("Agents", "agentes de WhatsApp p/ advocacia bancária"),
@@ -45,7 +46,7 @@ LINES = [
     "- Contact",
     ("GitHub", LOGIN),
     ("Instagram", "carli.lucas"),
-    # ("LinkedIn", "seu_handle"),
+    ("LinkedIn", "lucas-carli-1a692174"),
     "",
     "- GitHub Stats",
     "{stats}",
@@ -60,7 +61,7 @@ INFO_FS, INFO_LH, INFO_COLS = 16, 20, 58
 PAD = 15
 INFO_X = PAD + round(ASCII_COLS * ASCII_FS * CHAR_W) + PAD
 WIDTH = INFO_X + round(INFO_COLS * INFO_FS * CHAR_W) + PAD
-HEIGHT = 530
+HEIGHT = 570
 
 THEMES = {
     "dark_mode.svg": dict(bg="#161b22", fg="#c9d1d9", key="#ffa657", value="#a5d6ff", cc="#616e7f"),
