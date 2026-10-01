@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,Menlo,'DejaVu Sans Mono',monospace" width="989px" height="530px" viewBox="0 0 989 530" font-size="16px">
+<style>
+@font-face {src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 109%; size-adjust: 109%;}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="989px" height="530px" fill="#161b22" rx="15"/>
+<g fill="#c9d1d9" font-size="10px">
+<text x="15" y="35" xml:space="preserve">                      .   `.';;!,'</text>
+<text x="15" y="47" xml:space="preserve">                 .   `:`.`!l|!,:!,!!',.</text>
+<text x="15" y="59" xml:space="preserve">                 `;,|**'::,;.,:',' '. .'   `.</text>
+<text x="15" y="71" xml:space="preserve">             ,'`**|;!:',,*'.ji|!:| '       . .`</text>
+<text x="15" y="83" xml:space="preserve">            `;:;*,`;!ji*,*. ,`;'.'            ...</text>
+<text x="15" y="95" xml:space="preserve">          .,i:|`.'*':,                         ,l;</text>
+<text x="15" y="107" xml:space="preserve">          ;j`!|`..'`       ..                  ..</text>
+<text x="15" y="119" xml:space="preserve">          `;,*` :lgNHl;''''.   .`:!||;;;,'''       .</text>
+<text x="15" y="131" xml:space="preserve">          `*!,|w%@@@@@Npki|||||jmpwppml*;;:;;       ,</text>
+<text x="15" y="143" xml:space="preserve">          .;!!M@NNHNNNNMMNNH%gpppppwmlj!,:::*:     '*.</text>
+<text x="15" y="155" xml:space="preserve">           !;%@HHHHHHHHHHH%%gppppwwmli|:,:::;i|    'i.</text>
+<text x="15" y="167" xml:space="preserve">           ;jHNH%HHH%%HHH%gpppggggwwkl*!!;:,;m%;   ,*'</text>
+<text x="15" y="179" xml:space="preserve">           .jNNHHHHHH%%%HHggpgg%H%gwlj***||;!lgM! :,|</text>
+<text x="15" y="191" xml:space="preserve">            kMNNMNNNHNNNH%%gwppgppwkljjjii|!;jM@@:,;;</text>
+<text x="15" y="203" xml:space="preserve">            N@Ngwmli||*ijlllmggllj*!:,.      !ww%m :.</text>
+<text x="15" y="215" xml:space="preserve">         . .*!|klmmkl*;``,,:,;,...    `;!,  .`,' ;j``'</text>
+<text x="15" y="227" xml:space="preserve">        'kw!` |lj!;|!'.'`.:wj ',     :|'  `;,|i**%:::*</text>
+<text x="15" y="239" xml:space="preserve">        |k%k@|lw*!;il;,:'!kM:l@%'   `|*''.:w|.,|w@!*,:`</text>
+<text x="15" y="251" xml:space="preserve">        !MMlM%|@%gwljjiik%@k!@@p,  .':!!;,',:`*;w@k i,</text>
+<text x="15" y="263" xml:space="preserve">         m@mH@llMH%%%ggHMMk|@@Ngj' .,*ijlli|!*|*M@j k</text>
+<text x="15" y="275" xml:space="preserve">          NNpHNwmwwwwmwwmjl@@@Hg*;!. '!**i**;':%@@il!</text>
+<text x="15" y="287" xml:space="preserve">          l@w%%H%ggpwmkki*H*jm||`.`;.`;;;:,,`'!p@@i%`</text>
+<text x="15" y="299" xml:space="preserve">          :@Hw%%g%gwwppkkgg:*g|.     .*i|;'`;!ig@gil</text>
+<text x="15" y="311" xml:space="preserve">           |lpg%%gggggpp%NM@NHjp,  .':|l*;,'*imN@*</text>
+<text x="15" y="323" xml:space="preserve">             lNggggggg%%ggggppkMi'..':!!!'`|jlpMM.</text>
+<text x="15" y="335" xml:space="preserve">             `N%gggppgk!,jj*!!j` ``     .'`!wwH@i</text>
+<text x="15" y="347" xml:space="preserve">              |N%ggg%w,';|*lkli*|,.   .  .;jmp@p</text>
+<text x="15" y="359" xml:space="preserve">               *%ggggmjm%H%wwmkli,.   .   !wm%g'</text>
+<text x="15" y="371" xml:space="preserve">                |lgpklwpmmkj!.`           ;kp|m:</text>
+<text x="15" y="383" xml:space="preserve">                g*:*kmmmwpppgHgjii:.     :!!:j@:</text>
+<text x="15" y="395" xml:space="preserve">           .`'jp%%i':|lgHMM@@Mgpmi;:'.'',:,'|mMp.</text>
+<text x="15" y="407" xml:space="preserve">       .`'`,`H@%pggm|`.;ikmmmj||!``  .,'.`':;iH@j</text>
+<text x="15" y="419" xml:space="preserve"> .```',,''.'.N@%p%gwmj|'      .            .,|p@j</text>
+<text x="15" y="431" xml:space="preserve">::;'`,:`,'., i@%g%gpwmkj*;'                  :|*.</text>
+<text x="15" y="443" xml:space="preserve">,...':`',,... w@%ggpppwmlj*;,.</text>
+<text x="15" y="455" xml:space="preserve">  .'`''':' '  .w@%pppppwwkkj*!'</text>
+<text x="15" y="467" xml:space="preserve">  .,`',,:. ''   *NMgwwwwwwwml*!:.</text>
+<text x="15" y="479" xml:space="preserve">    ,',,:. `,`.  `lHN%pwwmklji|!,....</text>
+<text x="15" y="491" xml:space="preserve">   .,``,:  .'`.`.  .|m%NNHgwwmji|*jjj;</text>
+<text x="15" y="503" xml:space="preserve">   ``'`::   .'        .:|lwpggg%%%gmi:.</text>
+<text x="15" y="515" xml:space="preserve">   ` .';'   . `             ..```.</text>
+</g>
+<g fill="#c9d1d9">
+<text x="415" y="30" xml:space="preserve">lucas@carli -——————————————————————————————————————————-—-</text>
+<text x="415" y="50" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">macOS 15, Linux (VPS)</tspan></text>
+<text x="415" y="70" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">30 years, 10 months, 10 days</tspan></text>
+<text x="415" y="90" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">Brasil</tspan></text>
+<text x="415" y="110" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">AI Architect: agentes, CRMs e automação</tspan></text>
+<text x="415" y="130" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Claude Code, Codex CLI, Cursor</tspan></text>
+<text x="415" y="150" xml:space="preserve"><tspan class="cc">. </tspan></text>
+<text x="415" y="170" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">TypeScript, Python, SQL</tspan></text>
+<text x="415" y="190" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">HTML, CSS, JSON, YAML, Liquid</tspan></text>
+<text x="415" y="210" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Português, English</tspan></text>
+<text x="415" y="230" xml:space="preserve"><tspan class="cc">. </tspan></text>
+<text x="415" y="250" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Backend</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Supabase, Postgres, n8n</tspan></text>
+<text x="415" y="270" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">AI</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Claude API, agentes de WhatsApp</tspan></text>
+<text x="415" y="310" xml:space="preserve">- Building -———————————————————————————————————————————-—-</text>
+<text x="415" y="330" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">SaaS</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">conciliação contábil com IA</tspan></text>
+<text x="415" y="350" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Commerce</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">e-commerce próprio</tspan></text>
+<text x="415" y="370" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Agents</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">vendas e atendimento no WhatsApp</tspan></text>
+<text x="415" y="410" xml:space="preserve">- Contact -————————————————————————————————————————————-—-</text>
+<text x="415" y="430" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">toolsmktup-frag</tspan></text>
+<text x="415" y="450" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">carli.lucas</tspan></text>
+<text x="415" y="490" xml:space="preserve">- GitHub Stats -———————————————————————————————————————-—-</text>
+<text x="415" y="510" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">11 {Public: 3}</tspan> | <tspan class="key">Contributions</tspan>.<tspan class="key">Year</tspan>:<tspan class="cc"> . </tspan><tspan class="value">1,750</tspan></text>
+</g>
+</svg>
