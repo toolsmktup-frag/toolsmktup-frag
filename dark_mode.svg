@@ -54,7 +54,7 @@ text, tspan {white-space: pre;}
 <g fill="#c9d1d9">
 <text x="415" y="30" xml:space="preserve">lucas@carli -——————————————————————————————————————————-—-</text>
 <text x="415" y="50" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">macOS 15, Linux (VPS)</tspan></text>
-<text x="415" y="70" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">30 years, 10 months, 10 days</tspan></text>
+<text x="415" y="70" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">30 years, 10 months, 11 days</tspan></text>
 <text x="415" y="90" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">Brasil</tspan></text>
 <text x="415" y="110" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Automações, integrações e agentes de IA</tspan></text>
 <text x="415" y="130" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Background</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">desde 2012: infra, redes, telecom</tspan></text>
@@ -75,6 +75,6 @@ text, tspan {white-space: pre;}
 <text x="415" y="470" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">carli.lucas</tspan></text>
 <text x="415" y="490" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">lucas-carli-1a692174</tspan></text>
 <text x="415" y="530" xml:space="preserve">- GitHub Stats -———————————————————————————————————————-—-</text>
-<text x="415" y="550" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>.<tspan class="key">Public</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">3</tspan> | <tspan class="key">Contributions</tspan>.<tspan class="key">Year</tspan>:<tspan class="cc"> . </tspan><tspan class="value">2,327</tspan></text>
+<text x="415" y="550" xml:space="preserve"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan>.<tspan class="key">Public</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">3</tspan> | <tspan class="key">Contributions</tspan>.<tspan class="key">Year</tspan>:<tspan class="cc"> . </tspan><tspan class="value">2,345</tspan></text>
 </g>
 </svg>
